@@ -1,0 +1,244 @@
+body {
+    background: #98825A;
+}
+
+.home {
+    position: absolute;
+    width: 199px;
+    height: 74px;
+    left: 18px;
+    top: 39px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 84px;
+    color: #F5F5F5;
+}
+
+.headline1 {
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    top: 122px;
+    right: auto;
+    left: auto;
+    border: 1px solid #674422;
+}
+
+.headline2 {
+    position: absolute;
+    width: 120px;
+    height: 0px;
+    left: 344px;
+    top: 60px;
+    border: 1px solid #674422;
+    transform: rotate(-90deg);
+}
+
+.box1 {
+    position: absolute;
+    width: 169px;
+    height: 63px;
+    left: 530px;
+    top: 31px;
+    background: #BCB097;
+}
+
+.box2 {
+    position: absolute;
+    width: 169px;
+    height: 63px;
+    left: 730px;
+    top: 31px;   
+    background: #BCB097;
+}
+
+.box3 {
+    position: absolute;
+    width: 169px;
+    height: 63px;
+    left: 930px;
+    top: 31px;
+    background: #BCB097;
+}
+
+.box4 {
+    position: absolute;
+    width: 169px;
+    height: 63px;
+    left: 1130px;
+    top: 31px;
+    background: #BCB097;
+}
+
+.box5 {
+    position: absolute;
+    width: 328px;
+    height: 352px;
+    left: 180px;
+    top: 175px; 
+    background: #063121;
+}
+
+.box6 {
+    position: absolute;
+    width: 328px;
+    height: 352px;
+    left: 557px;
+    top: 175px;
+    background: #063121;
+}
+
+.box7 {
+    position: absolute;
+    width: 328px;
+    height: 352px;
+    left: 937px;
+    top: 175px;
+    background: #063121;
+}
+
+.box8 {
+    position: absolute;
+    width: 926px;
+    height: 128px;
+    left: 260px;
+    top: 588px;
+    background: #063121;
+}
+
+.headline3 {
+    position: absolute;
+    width: 325px;
+    height: 0px;
+    left: 180px;
+    top: 215px;
+    border: 1px solid #674422;
+}
+
+.headline4 {
+    position: absolute;
+    width: 325px;
+    height: 0px;
+    left: 557px;
+    top: 215px;
+    border: 1px solid #674422;
+}
+
+.headline5 {
+    position: absolute;
+    width: 325px;
+    height: 0px;
+    left: 937px;
+    top: 215px;
+    border: 1px solid #674422;
+}
+
+.edu {
+    position: absolute;
+    width: 117px;
+    height: 28px;
+    left: 285px;
+    top: 185px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}
+
+.ach {
+    position: absolute;
+    width: 152px;
+    height: 28px;
+    left: 650px;
+    top: 185px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}
+
+.future {
+    position: absolute;
+    width: 134px;
+    height: 28px;
+    left: 1045px;
+    top: 185px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}
+
+.exp {
+    position: absolute;
+    width: 309px;
+    height: 280px;
+    left: 190px;
+    top: 225px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}
+
+.ment {
+    position: absolute;
+    width: 314px;
+    height: 280px;
+    left: 571px;
+    top: 225px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}
+
+.plans {
+    position: absolute;
+    width: 317px;
+    height: 224px;
+    left: 951px;
+    top: 225px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}
+
+.quote2 {
+    position: absolute;
+    left: 260px;
+    top: 588px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}
+
+.quote3 {
+    position: absolute;
+    left: 937px;
+    top: 670px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}

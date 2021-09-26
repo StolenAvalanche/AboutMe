@@ -1,0 +1,161 @@
+body {
+    background: #98825A;
+}
+
+.home {
+    position: absolute;
+    width: 199px;
+    height: 74px;
+    left: 18px;
+    top: 39px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 84px;
+    color: #F5F5F5;
+}
+
+.headline1 {
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    top: 122px;
+    right: auto;
+    left: auto;
+    border: 1px solid #674422;
+}
+
+.headline2 {
+    position: absolute;
+    width: 120px;
+    height: 0px;
+    left: 344px;
+    top: 60px;
+    border: 1px solid #674422;
+    transform: rotate(-90deg);
+}
+
+.box1 {
+    position: absolute;
+    width: 169px;
+    height: 63px;
+    left: 530px;
+    top: 31px;
+    background: #BCB097;
+}
+
+.box2 {
+    position: absolute;
+    width: 169px;
+    height: 63px;
+    left: 730px;
+    top: 31px;   
+    background: #BCB097;
+}
+
+.box3 {
+    position: absolute;
+    width: 169px;
+    height: 63px;
+    left: 930px;
+    top: 31px;
+    background: #BCB097;
+}
+
+.box4 {
+    position: absolute;
+    width: 169px;
+    height: 63px;
+    left: 1130px;
+    top: 31px;
+    background: #BCB097;
+}
+
+.box5 {
+    position: absolute;
+    width: 926px;
+    height: 128px;
+    left: 250px;
+    top: 150px;
+    background: #063121;
+}
+
+.box6 {
+    position: absolute;
+    width: 328px;
+    height: 62px;
+    left: 175px;
+    top: 646px;
+    background: #BCB097;
+}
+
+.box7 {
+    position: absolute;
+    width: 328px;
+    height: 62px;
+    left: 548px;
+    top: 646px;
+    background: #BCB097;
+}
+
+.box8 {
+    position: absolute;
+    width: 328px;
+    height: 62px;
+    left: 921px;
+    top: 646px;
+    background: #BCB097;
+}
+
+.stock{
+    position: absolute;
+    width: 328px;
+    height: 290px;
+    left: 175px;
+    top: 355px;
+}
+
+.writing {
+    position: absolute;
+    width: 328px;
+    height: 290px;
+    left: 548px;
+    top: 355px;
+}
+
+.stock1 {
+    position: absolute;
+    width: 328px;
+    height: 290px;
+    left: 921px;
+    top: 355px;
+}
+
+.quote {
+    position: absolute;
+    width: 925px;
+    height: 128px;
+    left: 250px;
+    top: 150px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}
+
+.quote1 {
+    position: absolute;
+    width: 231px;
+    height: 28px;
+    left: 921px;
+    top: 241px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F5F5F5;
+}
